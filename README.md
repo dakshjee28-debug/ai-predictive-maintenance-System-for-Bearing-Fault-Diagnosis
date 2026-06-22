@@ -42,6 +42,8 @@ weighted avg       0.97      0.97      0.97       474
 
 The most predictive features were FFT-derived statistics and peak-to-peak amplitude, consistent with the fact that bearing faults introduce distinct periodic impact peaks in the frequency spectrum
 
+<img width="835" height="568" alt="result" src="https://github.com/user-attachments/assets/cee21285-f6d0-481c-b473-45767e24cb2c" />
+
 Random Forest — 97% accuracy ,SVM Accuracy - 74.47%  on held-out test set.
 
 # Usage
